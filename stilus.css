@@ -1,0 +1,39 @@
+td {
+    color: darkblue;
+    background-color: lightblue;
+    box-shadow: 5px 5px;
+}
+
+#terulet {
+    color:red;
+}
+
+#legmelyebb {
+    color:red;
+}
+
+#magas {
+    color:red;
+}
+#elso {
+    background-color:gray;
+}
+#második {
+    background-color:gray;
+}
+#harmadik {
+    background-color:gray;
+}
+#negyedik {
+    background-color:gray;
+}
+#otodik {
+    background-color:gray;
+}
+#hatodik {
+    background-color:gray;
+}
+th {
+    background-color: rgb(102, 102, 228);
+    box-shadow: 5px 5px;
+}
